@@ -1,6 +1,4 @@
 # Sistema de recomendación
-<!-- PROJECT LOGO -->
-<br />
 
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto
